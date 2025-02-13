@@ -1,3 +1,3 @@
-<img src=".github/readme-logo.svg" height="100" align="center"/>
+![](.github/readme-header.png)
 
 # Prosperous Universe Event System (PrUnES)
